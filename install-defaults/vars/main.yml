@@ -19,7 +19,6 @@ vscode_extensions :
   - ardenivanov.svelte-intellisense
   - budparr.language-hugo-vscode
   - burkeholland.simple-react-snippets
-  - CoenraadS.bracket-pair-colorizer
   - dbaeumer.vscode-eslint
   - dsznajder.es7-react-js-snippets
   - eamodio.gitlens
